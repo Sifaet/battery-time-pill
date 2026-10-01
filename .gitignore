@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Packaged extension
+*.shell-extension.zip
+
+# Local git helpers
+.env

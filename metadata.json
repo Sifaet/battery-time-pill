@@ -1,0 +1,7 @@
+{
+  "uuid": "battery-time-pill@sifaet",
+  "name": "Battery Pill Time Display",
+  "description": "Appends dynamic remaining charge/discharge time next to the status pill percentage.",
+  "shell-version": [ "50" ],
+  "url": "https://github.com/Sifaet/battery-time-pill"
+}
